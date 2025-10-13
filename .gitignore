@@ -2,7 +2,7 @@ src/Main
 .idea
 *.iml
 src/Main.java
-
+src/mytest/secrets.yaml
 
 ### IntelliJ IDEA ###
 out/
